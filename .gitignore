@@ -2,3 +2,4 @@
 /Pointcept/data/
 __pycache__/
 *.pyc
+/Pointcept/exp
