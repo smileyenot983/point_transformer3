@@ -1,0 +1,20 @@
+# ninja log v5
+1	12139	1740601704462710791	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda.o	7eb138b52432f12c
+7	12171	1740601704498710809	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	f6f27bdb0711331a
+3	12471	1740601704794710960	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	7eb830c8e8987c51
+4	12481	1740601704802710964	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	87d6bd03d7f7f33
+8	12665	1740601704986711058	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	141003f6a134e804
+0	12785	1740601705110711121	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	c642948c25ca0003
+5	12812	1740601705134711134	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda.o	7395e11db6df59f8
+2	12834	1740601705154711144	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda.o	4a69d9d5113bbb76
+7	13408	1740601705726711435	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda.o	f5c9508a27c0f571
+6	26714	1740601719026718223	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	75415943ca9bbb30
+7	61731	1740601754050736098	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/random_ball_query/random_ball_query_cuda_kernel.o	6cc5830524daa890
+1	62438	1740601754714736436	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/attention/attention_cuda_kernel.o	50a44417c527b83f
+8	62673	1740601754978736571	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	593586375f847533
+3	63243	1740601755526736851	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/ball_query/ball_query_cuda_kernel.o	3e40de591c409dcc
+4	63244	1740601755554736865	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	63c089e35f1bf947
+6	63265	1740601755578736877	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/knn_query/knn_query_cuda_kernel.o	201e068c411e223d
+5	64464	1740601756770737486	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	a6761ea225239c9a
+0	64796	1740601757078737642	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	6f9c4bdbdd9f4811
+8	65093	1740601757370737792	/workspace/Pointcept/libs/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	b532060ce5412f70

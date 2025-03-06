@@ -1,2 +1,4 @@
 /Pointcept/PointTransformerV3/
 /Pointcept/data/
+__pycache__/
+*.pyc
